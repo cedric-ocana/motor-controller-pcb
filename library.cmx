@@ -11,6 +11,8 @@ CP-2200uF-2069046||#DIL=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS 
 L7824||#DIL=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 L7924||#DIL=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 LTC2057HV||#USER=8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+NX3008NBK MOSFET N||#SOT23=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+NX3008PBK MOSFET P||#SOT23=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 OPA549_KV_11||#KV11=11||@Manufacturer=Texas Instruments||@Datasheet URL=http://www.ti.com/lit/gpn/OPA549||@INDUSTRY_STD_PKG_TYPE=TO-220||@FAMILY_NAME=HIGH OUTPUT CURRENT||@PIN_COUNT=11||@PACKAGE_DESIGNATOR=KV||@DESCRIPTION=High-Voltage, High-Current Op Amp, Excellent Output Swing||@GENERIC_PART_NUMBER=OPA549||@Vendor=Texas Instruments||@Manufacturer_Part_Number=opa549_kv_11||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 R0603||#SM0603=2||@Value=180K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 R0805||#SM0805=2||@Value=15K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
