@@ -1,0 +1,22 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Schematic and PCB Check Report).txt
+Report Written : Monday, November 10, 2014
+Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
+Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
+Design Title   : 
+Created        : 13.10.2014 16:37:54
+Last Saved     : 10.11.2014 16:42:50
+Editing Time   : 3348 min
+Units          : mm (precision 1)
+
+
+Checking integrity of Schematic and Pcb designs in project "motor-controller"
+=============================================================================
+
+
+Warning: Project has more than one version of Component "GND" ("MotorDriver.sch" & "PowerSupply.sch"). At least one should be reloaded otherwise results may be incorrect.
+
+
+End Of Report.

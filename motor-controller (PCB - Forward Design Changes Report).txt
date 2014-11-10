@@ -1,0 +1,22 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Forward Design Changes Report).txt
+Report Written : Monday, November 10, 2014
+Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
+Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
+Design Title   : 
+Created        : 13.10.2014 16:37:54
+Last Saved     : 10.11.2014 16:42:50
+Editing Time   : 3348 min
+Units          : mm (precision 1)
+
+Added net "N0149!MotorDriver!".
+
+Connected pin "U6-6" to net "N0149!MotorDriver!".
+Connected pin "R17-1" to net "N0149!MotorDriver!".
+Connected pin "R18-1" to net "N0156!MotorDriver!".
+Connected pin "R18-2" to net "N0149!MotorDriver!".
+
+
+End Of Report.
