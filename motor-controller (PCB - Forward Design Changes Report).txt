@@ -2,45 +2,34 @@ Forward Design Changes Report
 -----------------------------
 
 Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Forward Design Changes Report).txt
-Report Written : Monday, November 17, 2014
+Report Written : Monday, November 24, 2014
 Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
 Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
 Design Title   : 
 Created        : 13.10.2014 16:37:54
-Last Saved     : 17.11.2014 15:07:06
-Editing Time   : 3438 min
+Last Saved     : 24.11.2014 16:50:50
+Editing Time   : 3843 min
 Units          : mm (precision 1)
 
-Disconnected pin "CONN2-2" from net "N0135!MotorDriver!".
-Disconnected pin "U17-1" from net "N0135!MotorDriver!".
-Disconnected pin "U17-2" from net "N0135!MotorDriver!".
-Disconnected pin "R16-2" from net "N0135!MotorDriver!".
+Ignoring instance HS1 ("HeatSink") as it is defined for PCB only (no Schematic information).
+Ignoring instance HS2 ("HeatSink") as it is defined for PCB only (no Schematic information).
+Ignoring instance HS3 ("HeatSink") as it is defined for PCB only (no Schematic information).
+Ignoring instance HS4 ("HeatSink") as it is defined for PCB only (no Schematic information).
 
-Deleted net "N0135!MotorDriver!".
+Disconnected pin "CONN2-1" from net "GND".
+Disconnected pin "CONN2-2" from net "N0169!MotorDriver!".
 
-Added net "N0169!MotorDriver!".
-Added net "N0174!MotorDriver!".
+Added net "N0053!MotorDriver!".
+Added net "N0054!MotorDriver!".
 
-Added component reference "D1" of component "SK16", package "USER".
-Added component reference "D2" of component "SK16", package "USER".
-Added component reference "R18" of component "R", package "DSC".
-Changed value "Value" on component reference "R18" to "10R (Carbon)".
-Added component reference "C25" of component "C0805", package "SM0805".
-Added value "Value=0.1uF" to component reference "C25".
+Added component reference "Fiber1" of component "282836-2", package "DIL".
 
-
-Connected pin "CONN2-2" to net "N0169!MotorDriver!".
-Connected pin "U17-1" to net "N0169!MotorDriver!".
-Connected pin "U17-2" to net "N0169!MotorDriver!".
-Connected pin "R16-2" to net "N0169!MotorDriver!".
-Connected pin "D1-2" to net "-24V-RIPPLE".
-Connected pin "D1-1" to net "N0169!MotorDriver!".
-Connected pin "D2-2" to net "N0169!MotorDriver!".
-Connected pin "D2-1" to net "24V-RIPPLE".
-Connected pin "R18-1" to net "N0174!MotorDriver!".
-Connected pin "R18-2" to net "N0169!MotorDriver!".
-Connected pin "C25-1" to net "GND".
-Connected pin "C25-2" to net "N0174!MotorDriver!".
+Connected pin "Pi-23" to net "N0054!MotorDriver!".
+Connected pin "Pi-24" to net "N0053!MotorDriver!".
+Connected pin "U7-2" to net "N0053!MotorDriver!".
+Connected pin "U7-3" to net "N0054!MotorDriver!".
+Connected pin "Fiber1-1" to net "N0169!MotorDriver!".
+Connected pin "Fiber1-2" to net "GND".
 
 
 End Of Report.

@@ -2,21 +2,31 @@ Design Rule Check Report
 ------------------------
 
 Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Design Rule Check Report).txt
-Report Written : Monday, November 10, 2014
+Report Written : Monday, November 24, 2014
 Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
 Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
 Design Title   : 
 Created        : 13.10.2014 16:37:54
-Last Saved     : 10.11.2014 16:40:13
-Editing Time   : 3348 min
+Last Saved     : 24.11.2014 16:30:33
+Editing Time   : 3831 min
 Units          : mm (precision 1)
 
 
 Results
 =======
 
+Component to Component error (Cm-Cm) at (171.8 41.2) on layer "[Top]".
+    HS1 - U4, Gap is 0.0.
+Component to Board error (Cm-B) at (100.4 167.8) on layer "[Top]".
+    HS2.
+Component to Board error (Cm-B) at (229.3 129.8) on layer "[Top]".
+    HS4.
+Component to Component error (Cm-Cm) at (86.4 52.3) on layer "[Top]".
+    HS3 - U5, Gap is 0.0.
+Component to Component error (Cm-Cm) at (191.6 103.2) on layer "[Bottom]".
+    C25 - CONN2, Gap is 0.0.
 
-No errors found
+Number of errors found : 5
 
 
 Settings
