@@ -1,0 +1,22 @@
+Back Annotation Results Report
+------------------------------
+
+Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Back Annotation Results Report).txt
+Report Written : Monday, December 15, 2014
+Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
+Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
+Design Title   : 
+Created        : 13.10.2014 16:37:54
+Last Saved     : 15.12.2014 09:53:41
+Editing Time   : 4451 min
+Units          : mm (precision 1)
+
+Back Annotate renames from the PCB design to all Schematic designs in project "motor-controller".
+
+Change Value on Component 'C2' - 'Value'. - PowerSupply.sch
+Change Value on Component 'C8' - 'Value'. - PowerSupply.sch
+Change Value on Component 'C10' - 'Value'. - PowerSupply.sch
+Change Value on Component 'C12' - 'Value'. - PowerSupply.sch
+
+
+End Of Report.

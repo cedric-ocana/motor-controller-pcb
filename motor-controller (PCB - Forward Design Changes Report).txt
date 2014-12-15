@@ -2,13 +2,13 @@ Forward Design Changes Report
 -----------------------------
 
 Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Forward Design Changes Report).txt
-Report Written : Monday, November 24, 2014
+Report Written : Monday, December 15, 2014
 Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
 Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
 Design Title   : 
 Created        : 13.10.2014 16:37:54
-Last Saved     : 24.11.2014 16:50:50
-Editing Time   : 3843 min
+Last Saved     : 15.12.2014 11:46:13
+Editing Time   : 4568 min
 Units          : mm (precision 1)
 
 Ignoring instance HS1 ("HeatSink") as it is defined for PCB only (no Schematic information).
@@ -16,20 +16,8 @@ Ignoring instance HS2 ("HeatSink") as it is defined for PCB only (no Schematic i
 Ignoring instance HS3 ("HeatSink") as it is defined for PCB only (no Schematic information).
 Ignoring instance HS4 ("HeatSink") as it is defined for PCB only (no Schematic information).
 
-Disconnected pin "CONN2-1" from net "GND".
-Disconnected pin "CONN2-2" from net "N0169!MotorDriver!".
-
-Added net "N0053!MotorDriver!".
-Added net "N0054!MotorDriver!".
-
-Added component reference "Fiber1" of component "282836-2", package "DIL".
-
-Connected pin "Pi-23" to net "N0054!MotorDriver!".
-Connected pin "Pi-24" to net "N0053!MotorDriver!".
-Connected pin "U7-2" to net "N0053!MotorDriver!".
-Connected pin "U7-3" to net "N0054!MotorDriver!".
-Connected pin "Fiber1-1" to net "N0169!MotorDriver!".
-Connected pin "Fiber1-2" to net "GND".
+Net N0040 renamed to N0066!PowerSupply!
+Net N0042 renamed to N0013!PowerSupply!
 
 
 End Of Report.

@@ -1,0 +1,444 @@
+PLOT REPORT
+-----------
+
+Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - PLOT REPORT).txt
+Report Written : Monday, December 15, 2014
+Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
+Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
+Design Title   : 
+Created        : 13.10.2014 16:37:54
+Last Saved     : 15.12.2014 08:58:32
+Editing Time   : 4392 min
+Units          : mm (precision 1)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.3 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 2.3 absolute in mm.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - Top Silkscreen.gbr
+
+    Layers:
+    ----------------
+    Top Silkscreen
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ---------------------
+    D80     Round 5.00
+    D97     Round 10.00
+    D124    Round 8.00
+    D125    Round 6.00
+    D126    Round 3.00
+    D128    Round 7.87
+    D129    Round 12.00
+
+Gerber Output
+=============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - Top Solder-Mask.gbr
+
+    Layers:
+    -----------------
+    Top Solder-Mask
+
+    D-Code  Shape  (thou)
+    --------------------------------------------
+    D103    Round 39.87
+    D104    Round 125.98
+    D105    Square 118.11
+    D106    Round 86.61
+    D107    Rectangle 58.87 X 67.87
+    D108    Round 77.87
+    D109    Round 70.87
+    D110    Rectangle 58.87 X 67.87  Rotation 90
+    D111    Round 70.87
+    D112    Square 67.87
+    D114    Square 61.87
+    D115    Round 61.87
+    D117    Round 67.87
+    D118    Round 145.67
+    D122    Rectangle 47.87 X 55.87  Rotation 90
+    D123    Round 63.87
+    D130    Rectangle 27.87 X 53.87
+    D131    Rectangle 29.87 X 85.87
+    D132    Rectangle 47.87 X 55.87
+    D133    Rectangle 29.87 X 70.87
+
+Gerber Output
+=============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - Top Copper.gbr
+
+    Layers:
+    ------------
+    Top Copper
+
+    D-Code  Shape  (thou)
+    --------------------------------------------
+    D81     Round 32.00
+    D82     Round 118.11
+    D83     Round 63.00
+    D84     Round 137.80
+    D85     Round 56.00
+    D87     Rectangle 51.00 X 60.00
+    D88     Rectangle 51.00 X 60.00  Rotation 90
+    D94     Rectangle 40.00 X 48.00  Rotation 90
+    D95     Round 31.50
+    D97     Round 10.00
+    D150    Square 110.24
+    D151    Round 78.74
+    D152    Round 70.00
+    D153    Round 62.99
+    D154    Square 60.00
+    D155    Rectangle 20.00 X 46.00
+    D156    Rectangle 22.00 X 78.00
+    D157    Rectangle 40.00 X 48.00
+    D158    Square 54.00
+    D159    Round 54.00
+    D160    Rectangle 22.00 X 63.00
+    D161    Round 60.00
+    D162    Round 15.75
+    D163    Round 11.81
+
+Gerber Output
+=============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - Top Copper (Paste).gbr
+
+    Layers:
+    ------------
+    Top Copper
+
+    D-Code  Shape  (thou)
+    --------------------------------------------
+    D10     Rectangle 16.00 X 42.00
+    D11     Rectangle 47.00 X 56.00  Rotation 90
+    D12     Rectangle 18.00 X 74.00
+    D13     Rectangle 36.00 X 44.00
+    D14     Rectangle 47.00 X 56.00
+    D15     Rectangle 36.00 X 44.00  Rotation 90
+    D16     Rectangle 18.00 X 59.00
+
+Gerber Output
+=============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - GND Plane (Powerplane).gbr
+
+    Layers:
+    --------------------------------------------------------------------------------------
+    GND Plane        - Plane Isolation Gap 10.00 Thermal Connect Width 10.00 with 4 Spokes
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    -----------------------------------------
+    D17     Round 25.00
+    D18     Round 32.00  Thermal Relief Pad
+    D19     Round 36.00
+    D70     Round 138.11
+    D71     Round 118.11  Thermal Relief Pad
+    D20     Square 130.24
+    D21     Round 98.74
+    D22     Round 90.00
+    D23     Round 70.00  Thermal Relief Pad
+    D24     Round 83.00
+    D25     Round 63.00  Thermal Relief Pad
+    D26     Round 82.99
+    D27     Round 62.99  Thermal Relief Pad
+    D28     Square 110.24  Thermal Relief Pad
+    D29     Square 80.00
+    D72     Square 60.00  Thermal Relief Pad
+    D73     Square 74.00
+    D74     Round 74.00
+    D75     Round 54.00  Thermal Relief Pad
+    D76     Round 80.00
+    D77     Round 157.80
+    D78     Round 56.00  Thermal Relief Pad
+    D79     Round 52.00
+
+Gerber Output
+=============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - GND Plane (Powerplane Positive).gbr
+
+    Layers:
+    --------------------------------------------------------------------------------------
+    GND Plane        - Plane Isolation Gap 10.00 Thermal Connect Width 10.00 with 4 Spokes
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ---------------------
+    D80     Round 5.00
+    D81     Round 32.00
+    D82     Round 118.11
+    D83     Round 63.00
+    D84     Round 137.80
+    D85     Round 56.00
+    D150    Square 110.24
+    D151    Round 78.74
+    D152    Round 70.00
+    D153    Round 62.99
+    D154    Square 60.00
+    D158    Square 54.00
+    D159    Round 54.00
+    D161    Round 60.00
+
+Gerber Output
+=============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - 33V Plane (Powerplane).gbr
+
+    Layers:
+    --------------------------------------------------------------------------------------
+    3.3V Plane       - Plane Isolation Gap 10.00 Thermal Connect Width 10.00 with 4 Spokes
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    -----------------------------------------
+    D17     Round 25.00
+    D70     Round 138.11
+    D20     Square 130.24
+    D21     Round 98.74
+    D22     Round 90.00
+    D24     Round 83.00
+    D26     Round 82.99
+    D28     Square 110.24  Thermal Relief Pad
+    D29     Square 80.00
+    D72     Square 60.00  Thermal Relief Pad
+    D73     Square 74.00
+    D74     Round 74.00
+    D76     Round 80.00
+    D77     Round 157.80
+    D79     Round 52.00
+    D86     Round 76.00
+
+Gerber Output
+=============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - 3.3V Plane (Powerplane Positive).gbr
+
+    Layers:
+    --------------------------------------------------------------------------------------
+    3.3V Plane       - Plane Isolation Gap 10.00 Thermal Connect Width 10.00 with 4 Spokes
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ---------------------
+    D80     Round 5.00
+    D81     Round 32.00
+    D82     Round 118.11
+    D83     Round 63.00
+    D84     Round 137.80
+    D85     Round 56.00
+    D150    Square 110.24
+    D151    Round 78.74
+    D152    Round 70.00
+    D153    Round 62.99
+    D154    Square 60.00
+    D158    Square 54.00
+    D159    Round 54.00
+    D161    Round 60.00
+
+Gerber Output
+=============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - Bottom Copper.gbr
+
+    Layers:
+    ---------------
+    Bottom Copper
+
+    D-Code  Shape  (thou)
+    --------------------------------------------
+    D81     Round 32.00
+    D82     Round 118.11
+    D83     Round 63.00
+    D84     Round 137.80
+    D85     Round 56.00
+    D87     Rectangle 51.00 X 60.00
+    D88     Rectangle 51.00 X 60.00  Rotation 90
+    D89     Rectangle 22.00 X 78.00  Rotation 90
+    D90     Rectangle 70.87 X 90.55  Rotation 90
+    D91     Rectangle 20.00 X 40.00  Rotation 90
+    D92     Rectangle 20.00 X 47.71  Rotation 90
+    D93     Rectangle 13.00 X 18.00  Rotation 90
+    D94     Rectangle 40.00 X 48.00  Rotation 90
+    D95     Round 31.50
+    D96     Round 39.37
+    D97     Round 10.00
+    D150    Square 110.24
+    D151    Round 78.74
+    D152    Round 70.00
+    D153    Round 62.99
+    D154    Square 60.00
+    D158    Square 54.00
+    D159    Round 54.00
+    D161    Round 60.00
+
+Gerber Output
+=============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - Bottom Copper (Paste).gbr
+
+    Layers:
+    ---------------
+    Bottom Copper
+
+    D-Code  Shape  (thou)
+    --------------------------------------------
+    D11     Rectangle 47.00 X 56.00  Rotation 90
+    D14     Rectangle 47.00 X 56.00
+    D15     Rectangle 36.00 X 44.00  Rotation 90
+    D98     Rectangle 18.00 X 74.00  Rotation 90
+    D99     Rectangle 66.87 X 86.55  Rotation 90
+    D100    Rectangle 16.00 X 36.00  Rotation 90
+    D101    Rectangle 16.00 X 43.71  Rotation 90
+    D102    Rectangle 9.00 X 14.00  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - Bottom Solder-Mask.gbr
+
+    Layers:
+    --------------------
+    Bottom Solder-Mask
+
+    D-Code  Shape  (thou)
+    --------------------------------------------
+    D103    Round 39.87
+    D104    Round 125.98
+    D105    Square 118.11
+    D106    Round 86.61
+    D107    Rectangle 58.87 X 67.87
+    D108    Round 77.87
+    D109    Round 70.87
+    D110    Rectangle 58.87 X 67.87  Rotation 90
+    D111    Round 70.87
+    D112    Square 67.87
+    D113    Rectangle 29.87 X 85.87  Rotation 90
+    D114    Square 61.87
+    D115    Round 61.87
+    D116    Rectangle 78.74 X 98.43  Rotation 90
+    D117    Round 67.87
+    D118    Round 145.67
+    D119    Rectangle 27.87 X 47.87  Rotation 90
+    D120    Rectangle 27.87 X 55.59  Rotation 90
+    D121    Rectangle 20.87 X 25.87  Rotation 90
+    D122    Rectangle 47.87 X 55.87  Rotation 90
+    D123    Round 63.87
+
+Gerber Output
+=============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - Bottom Silkscreen.gbr
+
+    Layers:
+    -------------------
+    Bottom Silkscreen
+    Board Outlines
+
+    D-Code  Shape  (thou)
+    ---------------------
+    D80     Round 5.00
+    D124    Round 8.00
+    D125    Round 6.00
+    D126    Round 3.00
+
+NC Drill Output
+===============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - Drill Data - Through Hole.drl
+
+    Output:
+    --------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool   Size       Count    ID
+    -----------------------------
+    T001   00.016 in  13     A
+    T002   00.032 in  3      J
+    T003   00.034 in  11     I
+    T004   00.035 in  26     H
+    T005   00.035 in  8      G
+    T006   00.039 in  6      F
+    T007   00.042 in  6      E
+    T008   00.043 in  19     C
+    T009   00.051 in  18     B
+    T010   00.079 in  11     L
+    T011   00.110 in  8      K
+    -----------------------------
+    Total             129
+    -----------------------------
+    Tool   Size       Count    ID
+    -----------------------------
+    T001   00.025 in  1
+    T002   00.059 in  3      D
+    -----------------------------
+    Total             4
+    -----------------------------
+
+Gerber Output
+=============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller - Drill Ident Drawing - Through Hole.gbr
+
+    Layers:
+    ----------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill  Plated  Size  Shape  ID
+    ------------------------------
+    16     Y       100   Round  A
+    51     Y       100   Round  B
+    43     Y       100   Round  C
+    59             100   Round  D
+    42     Y       100   Round  E
+    39     Y       100   Round  F
+    35     Y       100   Round  G
+    35     Y       100   Round  H
+    34     Y       100   Round  I
+    32     Y       100   Round  J
+    110    Y       100   Round  K
+    79     Y       100   Round  L
+
+    D-Code  Shape  (thou)
+    ---------------------
+    D80     Round 5.00
+    D127    Round 100.00
+
+End Of Report.
