@@ -1,0 +1,18 @@
+Back Annotation Renames Report
+------------------------------
+
+Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Back Annotation Renames Report).txt
+Report Written : Monday, December 15, 2014
+Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
+Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
+Design Title   : 
+Created        : 13.10.2014 16:37:54
+Last Saved     : 15.12.2014 16:01:02
+Editing Time   : 4824 min
+Units          : mm (precision 1)
+
+Outstanding PCB renames awaiting back annotation to the Schematics design.
+
+Change Value on Component 'R18' - 'Value'.
+
+End Of Report.
