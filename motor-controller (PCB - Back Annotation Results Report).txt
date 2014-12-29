@@ -1,0 +1,31 @@
+Back Annotation Results Report
+------------------------------
+
+Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Back Annotation Results Report).txt
+Report Written : Monday, December 29, 2014
+Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
+Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
+Design Title   : 
+Created        : 13.10.2014 16:37:54
+Last Saved     : 29.12.2014 16:07:27
+Editing Time   : 5716 min
+Units          : mm (precision 1)
+
+Back Annotate renames from the PCB design to all Schematic designs in project "motor-controller".
+
+Change Value on Component 'U5' - 'Height'. - PowerSupply.sch
+Change Value on Component 'U4' - 'Height'. - PowerSupply.sch
+Change Value on Component 'U2' - 'Height'. - PowerSupply.sch
+Change Value on Component 'U1' - 'Height'. - PowerSupply.sch
+Change Value on Component 'U4' - 'Height'. - PowerSupply.sch
+Change Value on Component 'C6' - 'Height'. - PowerSupply.sch
+Change Value on Component 'C5' - 'Height'. - PowerSupply.sch
+Change Value on Component 'C1' - 'Height'. - PowerSupply.sch
+Change Value on Component 'U5' - 'Height'. - PowerSupply.sch
+Change Value on Component 'U2' - 'Height'. - PowerSupply.sch
+Change Value on Component 'U1' - 'Height'. - PowerSupply.sch
+Change Value on Component 'U4' - 'Height'. - PowerSupply.sch
+Change Value on Component 'U2' - 'Height'. - PowerSupply.sch
+
+
+End Of Report.
