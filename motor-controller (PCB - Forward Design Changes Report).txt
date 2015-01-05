@@ -2,26 +2,34 @@ Forward Design Changes Report
 -----------------------------
 
 Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Forward Design Changes Report).txt
-Report Written : Monday, December 29, 2014
+Report Written : Monday, January 05, 2015
 Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
 Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
 Design Title   : 
 Created        : 13.10.2014 16:37:54
-Last Saved     : 29.12.2014 16:13:13
-Editing Time   : 5716 min
+Last Saved     : 05.01.2015 16:05:06
+Editing Time   : 5966 min
 Units          : mm (precision 1)
 
-Added value "Manufacturer_Part_Number=2069033" to component reference "C2".
+Deleted value "Manufacturer_Part_Number" from component reference "BR1".
 
-Added value "Manufacturer_Name=Farnell" to component reference "C2".
+Deleted value "Manufacturer_Name" from component reference "BR1".
 
-Added value "Value=3.3uF" to component reference "C2".
+Deleted value "Height" from component reference "BR1".
 
-Added value "Value=3.3uF" to component reference "C8".
+Deleted value "Manufacturer_Part_Number" from component reference "BR2".
 
-Added value "Value=3.3uF" to component reference "C10".
+Deleted value "Manufacturer_Name" from component reference "BR2".
 
-Added value "Value=3.3uF" to component reference "C12".
+Deleted value "Height" from component reference "BR2".
+
+Deleted value "Manufacturer_Part_Number" from component reference "BR3".
+
+Deleted value "Manufacturer_Name" from component reference "BR3".
+
+Deleted value "Other Part Number" from component reference "BR3".
+
+Deleted value "Height" from component reference "BR3".
 
 
 
