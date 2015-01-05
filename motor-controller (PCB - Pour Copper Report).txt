@@ -1,17 +1,15 @@
-Forward Design Changes Report
------------------------------
+Pour Copper Report
+------------------
 
-Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Forward Design Changes Report).txt
+Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Pour Copper Report).txt
 Report Written : Monday, January 05, 2015
 Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
 Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
 Design Title   : 
 Created        : 13.10.2014 16:37:54
-Last Saved     : 05.01.2015 15:40:23
-Editing Time   : 5954 min
+Last Saved     : 05.01.2015 11:32:57
+Editing Time   : 5818 min
 Units          : mm (precision 1)
-
-The designs are the same, so no design changes to forward.
 
 
 End Of Report.
