@@ -2,16 +2,27 @@ Forward Design Changes Report
 -----------------------------
 
 Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Forward Design Changes Report).txt
-Report Written : Monday, January 05, 2015
+Report Written : Monday, December 29, 2014
 Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
 Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
 Design Title   : 
 Created        : 13.10.2014 16:37:54
-Last Saved     : 05.01.2015 15:40:23
-Editing Time   : 5954 min
+Last Saved     : 29.12.2014 16:13:13
+Editing Time   : 5716 min
 Units          : mm (precision 1)
 
-The designs are the same, so no design changes to forward.
+Added value "Manufacturer_Part_Number=2069033" to component reference "C2".
+
+Added value "Manufacturer_Name=Farnell" to component reference "C2".
+
+Added value "Value=3.3uF" to component reference "C2".
+
+Added value "Value=3.3uF" to component reference "C8".
+
+Added value "Value=3.3uF" to component reference "C10".
+
+Added value "Value=3.3uF" to component reference "C12".
+
 
 
 End Of Report.
