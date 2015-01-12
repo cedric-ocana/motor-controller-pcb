@@ -2,14 +2,14 @@ PLOT REPORT
 -----------
 
 Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - PLOT REPORT).txt
-Report Written : Monday, December 22, 2014
+Report Written : Monday, January 12, 2015
 Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
 Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
 Design Title   : 
 Created        : 13.10.2014 16:37:54
-Last Saved     : 22.12.2014 15:48:04
-Editing Time   : 5388 min
-Units          : mm (precision 1)
+Last Saved     : 12.01.2015 14:57:56
+Editing Time   : 6366 min
+Units          : mm (precision 3)
 
 
 Device Settings
@@ -22,7 +22,7 @@ Gerber Settings
     Leading zero suppression.
     G01 assumed throughout.
     Line termination <*> <CR> <LF>.
-    2.3 format absolute inches.
+    3.3 format absolute mm.
     Format commands defined in Gerber file.
     Aperture table defined in Gerber file.
     Hardware arcs allowed.
@@ -31,7 +31,7 @@ Gerber Settings
 Drill Settings
 ==============
 
-    Excellon Format 1    Format 2.3 absolute in mm.
+    Excellon Format 1    Format 3.3 absolute in mm.
     No zero suppression.
 
 
@@ -51,14 +51,14 @@ C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-control
     Top Silkscreen
     Board Outlines
 
-    D-Code  Shape  (thou)
-    ---------------------
-    D10     Round 5.00
-    D94     Round 10.00
-    D95     Round 8.00
-    D127    Round 6.00
-    D128    Round 3.00
-    D130    Round 12.00
+    D-Code  Shape  (mm)
+    -------------------
+    D11     Round 0.127
+    D12     Round 0.254
+    D13     Round 0.305
+    D14     Round 0.152
+    D15     Round 0.076
+    D16     Round 0.203
 
 Gerber Output
 =============
@@ -69,30 +69,30 @@ C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-control
     -----------------
     Top Solder-Mask
 
-    D-Code  Shape  (thou)
+    D-Code  Shape  (mm)
     --------------------------------------------
-    D105    Round 55.12
-    D106    Round 275.59
-    D107    Round 94.49
-    D108    Round 125.98
-    D109    Square 118.11
-    D110    Round 86.61
-    D111    Rectangle 58.87 X 67.87
-    D112    Round 94.49
-    D113    Rectangle 58.87 X 67.87  Rotation 90
-    D114    Round 74.80
-    D115    Square 78.74
-    D117    Square 82.68
-    D118    Round 82.68
-    D119    Rectangle 78.74 X 98.43  Rotation 90
-    D120    Round 90.55
-    D125    Rectangle 47.87 X 55.87  Rotation 90
-    D126    Round 66.93
-    D131    Round 204.72
-    D132    Rectangle 27.87 X 53.87
-    D133    Rectangle 29.87 X 85.87
-    D134    Rectangle 47.87 X 55.87
-    D135    Rectangle 29.87 X 70.87
+    D17     Round 1.400
+    D18     Round 7.000
+    D19     Round 2.400
+    D70     Round 3.200
+    D71     Square 3.000
+    D20     Round 2.200
+    D21     Round 2.400
+    D22     Round 5.200
+    D23     Round 1.900
+    D24     Square 2.000
+    D25     Rectangle 0.708 X 1.368
+    D26     Rectangle 1.495 X 1.724  Rotation 90
+    D27     Rectangle 0.759 X 2.181
+    D28     Rectangle 0.800 X 0.900
+    D29     Rectangle 1.495 X 1.724
+    D72     Rectangle 0.800 X 0.900  Rotation 90
+    D73     Square 2.100
+    D74     Round 2.100
+    D75     Rectangle 0.759 X 1.800
+    D76     Rectangle 2.000 X 2.500  Rotation 90
+    D77     Round 2.300
+    D78     Round 1.700
 
 Gerber Output
 =============
@@ -103,37 +103,37 @@ C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-control
     ------------
     Top Copper
 
-    D-Code  Shape  (thou)
+    D-Code  Shape  (mm)
     --------------------------------------------
-    D10     Round 5.00
-    D11     Round 47.24
-    D12     Round 267.72
-    D13     Round 86.61
-    D14     Round 118.11
-    D15     Square 110.24
-    D16     Round 78.74
-    D17     Round 86.61
-    D18     Round 66.93
-    D19     Square 70.87
-    D70     Square 74.80
-    D71     Round 74.80
-    D20     Round 82.68
-    D22     Round 59.06
-    D83     Rectangle 51.00 X 60.00
-    D84     Rectangle 51.00 X 60.00  Rotation 90
-    D86     Rectangle 70.87 X 90.55  Rotation 90
-    D90     Rectangle 40.00 X 48.00  Rotation 90
-    D91     Round 31.50
-    D92     Round 35.43
-    D93     Round 43.31
-    D94     Round 10.00
-    D96     Round 15.75
-    D136    Round 196.85
-    D137    Rectangle 20.00 X 46.00
-    D138    Rectangle 22.00 X 78.00
-    D139    Rectangle 40.00 X 48.00
-    D140    Rectangle 22.00 X 63.00
-    D141    Round 11.81
+    D11     Round 0.127
+    D12     Round 0.254
+    D79     Round 1.200
+    D80     Round 6.800
+    D81     Round 2.200
+    D82     Round 0.300
+    D83     Round 3.000
+    D84     Square 2.800
+    D85     Round 2.000
+    D86     Round 2.200
+    D87     Round 5.000
+    D88     Round 1.700
+    D89     Square 1.800
+    D90     Rectangle 0.508 X 1.168
+    D91     Rectangle 1.295 X 1.524  Rotation 90
+    D92     Rectangle 0.559 X 1.981
+    D93     Rectangle 0.600 X 0.700
+    D94     Rectangle 1.295 X 1.524
+    D95     Rectangle 0.600 X 0.700  Rotation 90
+    D96     Square 1.900
+    D97     Round 1.900
+    D98     Rectangle 0.559 X 1.600
+    D99     Rectangle 1.800 X 2.300  Rotation 90
+    D100    Round 2.100
+    D101    Round 1.500
+    D102    Round 0.800
+    D103    Round 0.400
+    D104    Round 0.900
+    D105    Round 1.100
 
 Gerber Output
 =============
@@ -144,16 +144,16 @@ C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-control
     ------------
     Top Copper
 
-    D-Code  Shape  (thou)
+    D-Code  Shape  (mm)
     --------------------------------------------
-    D97     Rectangle 47.00 X 56.00
-    D98     Rectangle 47.00 X 56.00  Rotation 90
-    D100    Rectangle 66.87 X 86.55  Rotation 90
-    D104    Rectangle 36.00 X 44.00  Rotation 90
-    D142    Rectangle 16.00 X 42.00
-    D143    Rectangle 18.00 X 74.00
-    D144    Rectangle 36.00 X 44.00
-    D145    Rectangle 18.00 X 59.00
+    D106    Rectangle 0.406 X 1.067
+    D107    Rectangle 1.194 X 1.422  Rotation 90
+    D108    Rectangle 0.457 X 1.880
+    D109    Rectangle 0.498 X 0.598
+    D110    Rectangle 1.194 X 1.422
+    D111    Rectangle 0.498 X 0.598  Rotation 90
+    D112    Rectangle 0.457 X 1.499
+    D113    Rectangle 1.698 X 2.198  Rotation 90
 
 Gerber Output
 =============
@@ -162,35 +162,35 @@ C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-control
 
     Layers:
     --------------------------------------------------------------------------------------
-    GND Plane        - Plane Isolation Gap 10.00 Thermal Connect Width 10.00 with 4 Spokes
+    GND Plane        - Plane Isolation Gap 0.200 Thermal Connect Width 0.200 with 4 Spokes
     Board Outlines
 
-    D-Code  Shape  (thou)
-    -----------------------------------------
-    D23     Round 25.00
-    D24     Round 67.24
-    D25     Round 287.72
-    D26     Round 106.61
-    D27     Round 138.11
-    D28     Square 130.24
-    D29     Round 98.74
-    D72     Round 106.61
-    D73     Round 86.93
-    D74     Square 70.87  Thermal Relief Pad
-    D75     Square 90.87
-    D76     Square 110.24  Thermal Relief Pad
-    D77     Square 94.80
-    D78     Round 94.80
-    D79     Round 102.68
-    D81     Round 79.06
-    D82     Round 47.24  Thermal Relief Pad
-    D146    Round 36.00
-    D147    Round 118.11  Thermal Relief Pad
-    D148    Round 86.61  Thermal Relief Pad
-    D149    Round 216.85
-    D150    Round 66.93  Thermal Relief Pad
-    D151    Round 74.80  Thermal Relief Pad
-    D152    Round 59.06  Thermal Relief Pad
+    D-Code  Shape  (mm)
+    ----------------------------------------
+    D114    Round 0.527
+    D115    Round 1.200  Thermal Relief Pad
+    D116    Round 0.806
+    D117    Round 7.200
+    D118    Round 2.600
+    D119    Round 3.400
+    D120    Round 3.000  Thermal Relief Pad
+    D121    Square 3.200
+    D122    Round 2.400
+    D123    Round 2.600
+    D124    Round 2.200  Thermal Relief Pad
+    D125    Round 5.400
+    D126    Round 2.100
+    D127    Round 1.700  Thermal Relief Pad
+    D128    Square 2.800  Thermal Relief Pad
+    D129    Square 2.200
+    D130    Square 1.800  Thermal Relief Pad
+    D131    Square 2.300
+    D132    Round 2.300
+    D133    Round 1.900  Thermal Relief Pad
+    D134    Round 2.500
+    D135    Round 1.500  Thermal Relief Pad
+    D136    Round 1.600
+    D137    Round 1.900
 
 Gerber Output
 =============
@@ -198,27 +198,27 @@ Gerber Output
 C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-controller - GND Plane (Powerplane Positive).gbr
 
     Layers:
-    ------------------------------------------------------------------------------------
-    GND Plane        - Plane Isolation Gap 5.91 Thermal Connect Width 8.00 with 4 Spokes
+    --------------------------------------------------------------------------------------
+    GND Plane        - Plane Isolation Gap 0.200 Thermal Connect Width 0.200 with 4 Spokes
     Board Outlines
 
-    D-Code  Shape  (thou)
-    ---------------------
-    D10     Round 5.00
-    D11     Round 47.24
-    D12     Round 267.72
-    D13     Round 86.61
-    D14     Round 118.11
-    D15     Square 110.24
-    D16     Round 78.74
-    D17     Round 86.61
-    D18     Round 66.93
-    D19     Square 70.87
-    D70     Square 74.80
-    D71     Round 74.80
-    D20     Round 82.68
-    D22     Round 59.06
-    D136    Round 196.85
+    D-Code  Shape  (mm)
+    --------------------
+    D11     Round 0.127
+    D79     Round 1.200
+    D80     Round 6.800
+    D81     Round 2.200
+    D83     Round 3.000
+    D84     Square 2.800
+    D85     Round 2.000
+    D86     Round 2.200
+    D87     Round 5.000
+    D88     Round 1.700
+    D89     Square 1.800
+    D96     Square 1.900
+    D97     Round 1.900
+    D100    Round 2.100
+    D101    Round 1.500
 
 Gerber Output
 =============
@@ -227,29 +227,29 @@ C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-control
 
     Layers:
     --------------------------------------------------------------------------------------
-    3.3V Plane       - Plane Isolation Gap 10.00 Thermal Connect Width 10.00 with 4 Spokes
+    3.3V Plane       - Plane Isolation Gap 0.200 Thermal Connect Width 0.200 with 4 Spokes
     Board Outlines
 
-    D-Code  Shape  (thou)
-    -----------------------------------------
-    D10     Round 25.00
-    D11     Round 67.24
-    D12     Round 287.72
-    D13     Round 106.61
-    D14     Round 138.11
-    D15     Square 130.24
-    D16     Round 98.74
-    D17     Round 106.61
-    D18     Round 216.85
-    D19     Round 86.93
-    D70     Square 70.87  Thermal Relief Pad
-    D71     Square 90.87
-    D20     Square 110.24  Thermal Relief Pad
-    D21     Square 94.80
-    D22     Round 94.80
-    D23     Round 102.68
-    D24     Round 79.06
-    D25     Round 47.24  Thermal Relief Pad
+    D-Code  Shape  (mm)
+    ----------------------------------------
+    D114    Round 0.527
+    D115    Round 1.200  Thermal Relief Pad
+    D117    Round 7.200
+    D118    Round 2.600
+    D119    Round 3.400
+    D121    Square 3.200
+    D122    Round 2.400
+    D123    Round 2.600
+    D125    Round 5.400
+    D126    Round 2.100
+    D128    Square 2.800  Thermal Relief Pad
+    D129    Square 2.200
+    D130    Square 1.800  Thermal Relief Pad
+    D131    Square 2.300
+    D132    Round 2.300
+    D134    Round 2.500
+    D136    Round 1.600
+    D137    Round 1.900
 
 Gerber Output
 =============
@@ -257,27 +257,27 @@ Gerber Output
 C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-controller - 3.3V Plane (Powerplane Positive).gbr
 
     Layers:
-    ------------------------------------------------------------------------------------
-    3.3V Plane       - Plane Isolation Gap 5.91 Thermal Connect Width 8.00 with 4 Spokes
+    --------------------------------------------------------------------------------------
+    3.3V Plane       - Plane Isolation Gap 0.200 Thermal Connect Width 0.200 with 4 Spokes
     Board Outlines
 
-    D-Code  Shape  (thou)
-    ---------------------
-    D26     Round 5.00
-    D27     Round 47.24
-    D28     Round 267.72
-    D29     Round 86.61
-    D72     Round 118.11
-    D73     Square 110.24
-    D74     Round 78.74
-    D75     Round 86.61
-    D76     Round 196.85
-    D77     Round 66.93
-    D78     Square 70.87
-    D79     Square 74.80
-    D80     Round 74.80
-    D81     Round 82.68
-    D82     Round 59.06
+    D-Code  Shape  (mm)
+    --------------------
+    D11     Round 0.127
+    D79     Round 1.200
+    D80     Round 6.800
+    D81     Round 2.200
+    D83     Round 3.000
+    D84     Square 2.800
+    D85     Round 2.000
+    D86     Round 2.200
+    D87     Round 5.000
+    D88     Round 1.700
+    D89     Square 1.800
+    D96     Square 1.900
+    D97     Round 1.900
+    D100    Round 2.100
+    D101    Round 1.500
 
 Gerber Output
 =============
@@ -288,37 +288,38 @@ C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-control
     ---------------
     Bottom Copper
 
-    D-Code  Shape  (thou)
+    D-Code  Shape  (mm)
     --------------------------------------------
-    D26     Round 5.00
-    D27     Round 47.24
-    D28     Round 267.72
-    D29     Round 86.61
-    D72     Round 118.11
-    D73     Square 110.24
-    D74     Round 78.74
-    D75     Round 86.61
-    D76     Round 196.85
-    D77     Round 66.93
-    D78     Square 70.87
-    D79     Square 74.80
-    D80     Round 74.80
-    D81     Round 82.68
-    D82     Round 59.06
-    D83     Rectangle 51.00 X 60.00
-    D84     Rectangle 51.00 X 60.00  Rotation 90
-    D85     Rectangle 22.00 X 78.00  Rotation 90
-    D86     Rectangle 70.87 X 90.55  Rotation 90
-    D87     Rectangle 20.00 X 40.00  Rotation 90
-    D88     Rectangle 20.00 X 47.71  Rotation 90
-    D89     Rectangle 13.00 X 18.00  Rotation 90
-    D90     Rectangle 40.00 X 48.00  Rotation 90
-    D91     Round 31.50
-    D92     Round 35.43
-    D93     Round 43.31
-    D94     Round 10.00
-    D95     Round 8.00
-    D96     Round 15.75
+    D11     Round 0.127
+    D12     Round 0.254
+    D16     Round 0.203
+    D79     Round 1.200
+    D80     Round 6.800
+    D81     Round 2.200
+    D83     Round 3.000
+    D84     Square 2.800
+    D85     Round 2.000
+    D86     Round 2.200
+    D87     Round 5.000
+    D88     Round 1.700
+    D89     Square 1.800
+    D91     Rectangle 1.295 X 1.524  Rotation 90
+    D94     Rectangle 1.295 X 1.524
+    D95     Rectangle 0.600 X 0.700  Rotation 90
+    D96     Square 1.900
+    D97     Round 1.900
+    D99     Rectangle 1.800 X 2.300  Rotation 90
+    D100    Round 2.100
+    D101    Round 1.500
+    D102    Round 0.800
+    D103    Round 0.400
+    D104    Round 0.900
+    D105    Round 1.100
+    D138    Round 0.025
+    D139    Rectangle 0.559 X 1.981  Rotation 90
+    D140    Rectangle 0.508 X 1.016  Rotation 90
+    D141    Rectangle 0.508 X 1.212  Rotation 90
+    D142    Rectangle 0.330 X 0.457  Rotation 90
 
 Gerber Output
 =============
@@ -329,16 +330,16 @@ C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-control
     ---------------
     Bottom Copper
 
-    D-Code  Shape  (thou)
+    D-Code  Shape  (mm)
     --------------------------------------------
-    D97     Rectangle 47.00 X 56.00
-    D98     Rectangle 47.00 X 56.00  Rotation 90
-    D99     Rectangle 18.00 X 74.00  Rotation 90
-    D100    Rectangle 66.87 X 86.55  Rotation 90
-    D101    Rectangle 16.00 X 36.00  Rotation 90
-    D102    Rectangle 16.00 X 43.71  Rotation 90
-    D103    Rectangle 9.00 X 14.00  Rotation 90
-    D104    Rectangle 36.00 X 44.00  Rotation 90
+    D107    Rectangle 1.194 X 1.422  Rotation 90
+    D110    Rectangle 1.194 X 1.422
+    D111    Rectangle 0.498 X 0.598  Rotation 90
+    D113    Rectangle 1.698 X 2.198  Rotation 90
+    D143    Rectangle 0.457 X 1.880  Rotation 90
+    D144    Rectangle 0.406 X 0.914  Rotation 90
+    D145    Rectangle 0.406 X 1.110  Rotation 90
+    D146    Rectangle 0.229 X 0.356  Rotation 90
 
 Gerber Output
 =============
@@ -349,30 +350,30 @@ C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-control
     --------------------
     Bottom Solder-Mask
 
-    D-Code  Shape  (thou)
+    D-Code  Shape  (mm)
     --------------------------------------------
-    D105    Round 55.12
-    D106    Round 275.59
-    D107    Round 94.49
-    D108    Round 125.98
-    D109    Square 118.11
-    D110    Round 86.61
-    D111    Rectangle 58.87 X 67.87
-    D112    Round 94.49
-    D113    Round 204.72
-    D114    Rectangle 58.87 X 67.87  Rotation 90
-    D115    Round 74.80
-    D116    Square 78.74
-    D117    Rectangle 29.87 X 85.87  Rotation 90
-    D118    Square 82.68
-    D119    Round 82.68
-    D120    Rectangle 78.74 X 98.43  Rotation 90
-    D121    Round 90.55
-    D122    Rectangle 27.87 X 47.87  Rotation 90
-    D123    Rectangle 27.87 X 55.59  Rotation 90
-    D124    Rectangle 20.87 X 25.87  Rotation 90
-    D125    Rectangle 47.87 X 55.87  Rotation 90
-    D126    Round 66.93
+    D17     Round 1.400
+    D18     Round 7.000
+    D19     Round 2.400
+    D70     Round 3.200
+    D71     Square 3.000
+    D20     Round 2.200
+    D21     Round 2.400
+    D22     Round 5.200
+    D23     Round 1.900
+    D24     Square 2.000
+    D26     Rectangle 1.495 X 1.724  Rotation 90
+    D29     Rectangle 1.495 X 1.724
+    D72     Rectangle 0.800 X 0.900  Rotation 90
+    D73     Square 2.100
+    D74     Round 2.100
+    D76     Rectangle 2.000 X 2.500  Rotation 90
+    D77     Round 2.300
+    D78     Round 1.700
+    D147    Rectangle 0.759 X 2.181  Rotation 90
+    D148    Rectangle 0.708 X 1.216  Rotation 90
+    D149    Rectangle 0.708 X 1.412  Rotation 90
+    D150    Rectangle 0.530 X 0.657  Rotation 90
 
 Gerber Output
 =============
@@ -384,12 +385,12 @@ C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-control
     Bottom Silkscreen
     Board Outlines
 
-    D-Code  Shape  (thou)
-    ---------------------
-    D26     Round 5.00
-    D95     Round 8.00
-    D127    Round 6.00
-    D128    Round 3.00
+    D-Code  Shape  (mm)
+    -------------------
+    D11     Round 0.127
+    D14     Round 0.152
+    D15     Round 0.076
+    D16     Round 0.203
 
 NC Drill Output
 ===============
@@ -402,36 +403,36 @@ C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-control
     Plated Slots
     Plated Board Outlines
 
-    Tool   Size       Count    ID
-    -----------------------------
-    T001   00.016 in  1      M
-    T002   00.016 in  16     A
-    T003   00.028 in  11     O
-    T004   00.032 in  2      J
-    T005   00.034 in  11     I
-    T006   00.035 in  26     H
-    T007   00.035 in  8      G
-    T008   00.042 in  12     E
-    T009   00.043 in  19     C
-    T010   00.051 in  18     B
-    T011   00.079 in  11     L
-    T012   00.098 in  8      Q
-    T013   00.161 in  5      P
-    -----------------------------
-    Total             148
-    -----------------------------
-    Tool   Size       Count    ID
-    -----------------------------
-    T001   00.025 in  1
-    T002   00.059 in  3      D
-    -----------------------------
-    Total             4
-    -----------------------------
+    Tool   Size        Count    ID
+    ------------------------------
+    T001   000.400 mm  1      M
+    T002   000.406 mm  16     A
+    T003   000.700 mm  11     O
+    T004   000.813 mm  2      J
+    T005   000.864 mm  11     I
+    T006   000.889 mm  26     H
+    T007   000.900 mm  8      G
+    T008   001.067 mm  12     E
+    T009   001.100 mm  19     C
+    T010   001.300 mm  18     B
+    T011   002.000 mm  11     L
+    T012   002.500 mm  8      Q
+    T013   004.100 mm  5      P
+    ------------------------------
+    Total              148
+    ------------------------------
+    Tool   Size        Count    ID
+    ------------------------------
+    T001   000.635 mm  1
+    T002   001.500 mm  3      D
+    ------------------------------
+    Total              4
+    ------------------------------
 
 Gerber Output
 =============
 
-C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-controller - Drill Ident Drawing - Through Hole.gbr
+plot.ger
 
     Layers:
     ----------------
@@ -441,26 +442,26 @@ C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\Gerber-Files\motor-control
 Drill Ident Drawing
 ===================
 
-    Drill  Plated  Size  Shape  ID
-    ------------------------------
-    16     Y       100   Round  A
-    51     Y       100   Round  B
-    43     Y       100   Round  C
-    59             100   Round  D
-    42     Y       100   Round  E
-    35     Y       100   Round  G
-    35     Y       100   Round  H
-    34     Y       100   Round  I
-    32     Y       100   Round  J
-    79     Y       100   Round  L
-    16     Y       100   Round  M
-    28     Y       100   Round  O
-    161    Y       100   Round  P
-    98     Y       100   Round  Q
+    Drill  Plated  Size   Shape  ID
+    -------------------------------
+    0.406  Y       2.540  Round  A
+    1.300  Y       2.540  Round  B
+    1.100  Y       2.540  Round  C
+    1.500          2.540  Round  D
+    1.067  Y       2.540  Round  E
+    0.900  Y       2.540  Round  G
+    0.889  Y       2.540  Round  H
+    0.864  Y       2.540  Round  I
+    0.813  Y       2.540  Round  J
+    2.000  Y       2.540  Round  L
+    0.400  Y       2.540  Round  M
+    0.700  Y       2.540  Round  O
+    4.100  Y       2.540  Round  P
+    2.500  Y       2.540  Round  Q
 
-    D-Code  Shape  (thou)
-    ---------------------
-    D26     Round 5.00
-    D129    Round 100.00
+    D-Code  Shape  (mm)
+    -------------------
+    D10     Round 2.540
+    D11     Round 0.127
 
 End Of Report.

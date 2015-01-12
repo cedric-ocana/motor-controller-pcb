@@ -2,29 +2,17 @@ Back Annotation Renames Report
 ------------------------------
 
 Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Back Annotation Renames Report).txt
-Report Written : Monday, December 29, 2014
+Report Written : Monday, January 12, 2015
 Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
 Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
 Design Title   : 
 Created        : 13.10.2014 16:37:54
-Last Saved     : 29.12.2014 16:07:27
-Editing Time   : 5716 min
+Last Saved     : 12.01.2015 08:49:00
+Editing Time   : 6006 min
 Units          : mm (precision 1)
 
 Outstanding PCB renames awaiting back annotation to the Schematics design.
 
-Change Value on Component 'U5' - 'Height'.
-Change Value on Component 'U4' - 'Height'.
-Change Value on Component 'U2' - 'Height'.
-Change Value on Component 'U1' - 'Height'.
-Change Value on Component 'U4' - 'Height'.
-Change Value on Component 'C6' - 'Height'.
-Change Value on Component 'C5' - 'Height'.
-Change Value on Component 'C1' - 'Height'.
-Change Value on Component 'U5' - 'Height'.
-Change Value on Component 'U2' - 'Height'.
-Change Value on Component 'U1' - 'Height'.
-Change Value on Component 'U4' - 'Height'.
 Change Value on Component 'U2' - 'Height'.
 
 End Of Report.

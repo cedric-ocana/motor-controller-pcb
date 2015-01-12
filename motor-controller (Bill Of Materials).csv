@@ -1,11 +1,11 @@
-Report Written :   Monday, January 05, 2015  16:52
+Report Written :   Monday, January 12, 2015  15:08
 Project Path   :   C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
 Design Path    :   C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
 Design Title   :
 Created        :   13.10.2014 16:37:54
-Last Saved     :   05.01.2015 16:52:34
-Editing Time   :   5966 min
-Units          :   mm (precision 1)
+Last Saved     :   12.01.2015 15:08:34
+Editing Time   :   6376 min
+Units          :   mm (precision 3)
 
 Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
 --------------------------------------------------------------------------
@@ -71,14 +71,14 @@ Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
 "U4","1","MC7805ACT","","DSC","Farnell","9664505","","","VOLTAGE REGULATOR"
 "U5","1","MC7805ACT","","DSC","Farnell","9664505","","","VOLTAGE REGULATOR"
 "U7","1","MCP4921-X_SN","","SOIC8-N_MC","Farnell","1332113","","",""
-"U10","1","NX3008NBK MOSFET N","","SOT23","","","","",""
-"U12","1","NX3008NBK MOSFET N","","SOT23","","","","",""
-"U13","1","NX3008NBK MOSFET N","","SOT23","","","","",""
-"U14","1","NX3008NBK MOSFET N","","SOT23","","","","",""
-"U15","1","NX3008NBK MOSFET N","","SOT23","","","","",""
-"U16","1","NX3008NBK MOSFET N","","SOT23","","","","",""
-"U11","1","NX3008PBK MOSFET P","","SOT23","","","","",""
-"U21","1","NX3008PBK MOSFET P","","SOT23","Farnell","2069547","","",""
+"U10","1","NX3008NBK MOSFET N","","SML","Farnell","2069541","","",""
+"U12","1","NX3008NBK MOSFET N","","SML","Farnell","2069541","","",""
+"U13","1","NX3008NBK MOSFET N","","SML","Farnell","2069541","","",""
+"U14","1","NX3008NBK MOSFET N","","SML","Farnell","2069541","","",""
+"U15","1","NX3008NBK MOSFET N","","SML","Farnell","2069541","","",""
+"U16","1","NX3008NBK MOSFET N","","SML","Farnell","2069541","","",""
+"U11","1","NX3008PBK MOSFET P","","SML","Farnell","2069547","","",""
+"U21","1","NX3008PBK MOSFET P","","SML","Farnell","2069547","","",""
 "U17","1","OPA549_KV_11","","KV11","Farnell","1097484","","",""
 "R18","1","R","10R (Carbon)","DSC","","","","","Resistor"
 "R1","1","R0805","0R","SM0805","","","","","Thick Film Surface Mount Resistor"

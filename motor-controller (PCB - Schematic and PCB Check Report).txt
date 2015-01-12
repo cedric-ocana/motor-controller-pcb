@@ -2,22 +2,21 @@ Schematic and PCB Check Report
 ------------------------------
 
 Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Schematic and PCB Check Report).txt
-Report Written : Monday, January 05, 2015
+Report Written : Monday, January 12, 2015
 Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
 Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
 Design Title   : 
 Created        : 13.10.2014 16:37:54
-Last Saved     : 05.01.2015 16:05:06
-Editing Time   : 5966 min
-Units          : mm (precision 1)
+Last Saved     : 12.01.2015 14:57:56
+Editing Time   : 6376 min
+Units          : mm (precision 3)
 
 
-Checking integrity of Schematic and Pcb designs in project "motor-controller"
-=============================================================================
+Checking integrity of Schematic "C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj" with PCB "C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb"
+==================================================================================================================================================================================================
 
 
 Warning: Project has more than one version of Component "GND" ("MotorDriver.sch" & "PowerSupply.sch"). At least one should be reloaded otherwise results may be incorrect.
-Warning: Project has more than one version of Component "NX3008PBK MOSFET P" ("MotorDriver.sch" & "PowerSupply.sch"). At least one should be reloaded otherwise results may be incorrect.
 Warning: Project has more than one version of Component "282836-2" ("MotorDriver.sch" & "PowerSupply.sch"). At least one should be reloaded otherwise results may be incorrect.
 
 

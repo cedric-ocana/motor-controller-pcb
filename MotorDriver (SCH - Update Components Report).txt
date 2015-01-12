@@ -1,0 +1,172 @@
+Update Components Report
+------------------------
+
+Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\MotorDriver (SCH - Update Components Report).txt
+Report Written : Monday, January 12, 2015
+Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
+Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\MotorDriver.sch
+Design Title   : 
+Created        : 
+Last Saved     : 12.01.2015 09:01:30
+Editing Time   : 8459 min
+Units          : thou (precision 2)
+
+
+Library Files:
+==============
+
+C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\library.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\DownloadedLibrary\A_D-Wandler.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\DownloadedLibrary\D_A-Wandler.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\DownloadedLibrary\Gleichrichter und Schottky Dioden.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\DownloadedLibrary\Halbleiter-Standard Logik-Flip Flop ICs.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\DownloadedLibrary\Operationsverstärker.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\DownloadedLibrary\Schaltdioden.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\DownloadedLibrary\Spannungs-Linearregler.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\DownloadedLibrary\Steckverbinder-Leiterplattensteckverbinder-Leiterplatten Printklemmen.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\DownloadedLibrary\Zener Dioden.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\3m.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\74hc.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\74hct.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\74ls.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\4000.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\actel.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\ad.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\adsp.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\altera.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\alteracyclone.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\amp.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\atmel.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\atmel8051.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\atmelarm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\atmelatsam7.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\atmelavr.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\avx.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\capacitor.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\coldfire.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\connector.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\csm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\cypress.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\diode.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\discrete.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\dsm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\fairchild.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\fairchild1.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\fairchildacex.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\fci.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\fuse.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\hamlin.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\hybrid.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\infineontc116x.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\intel8051.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\ir.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\lattice.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\lt.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\ltspice.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\luminarycortex.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\maxim.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\maxim8051.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\maximmp.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\mc68hc.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\microchip.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\microchippic.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\molex.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\msp430.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\murata.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\natsemi.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\nxp-lpc32x0.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\omron.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\onsemi.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\opamps.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\pcb.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\philips80c51.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\philipsarm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\philipsp89.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\philipsxa.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\picaxe.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\powerpc.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\qbsm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\qcsm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\qsm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\quicklogic.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\relay.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\renesasr8c.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\resistor.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\rfmicro.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\schema.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\sm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\sonycx.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\st-arm7.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\st.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\testpoint.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\ti.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\tms320.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\tms470.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\toshibatmp86.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\trans.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\transistor.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\vishay.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\xilinx.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\XSpice.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\zilog.cml
+
+Selected items to be updated:
+=============================
+
+
+Components:
+===========
+
+NX3008NBK MOSFET N  C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\library.cml
+
+Symbols:
+========
+
+TRANS-7  C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\trans.ssl
+
+Additional items to be updated:
+===============================
+
+
+Components:
+===========
+
+NX3008NBK MOSFET N  C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\library.cml
+
+Symbols:
+========
+
+    (None) 
+
+Errors accessing items in the library:
+======================================
+
+
+Components:
+===========
+
+    Could not find component 'NX3008NBK MOSFET N' package 'SOT23'
+
+
+
+Update Components Summary
+=========================
+
+Updating single component.
+(Force update of items, even if latest version)
+Keep component values
+Keep component value positions
+
+	Selected for update:			   1  Component 
+						   1  Symbol 
+
+	Selected items to be updated:		   1  Component 
+						   1  Symbol 
+
+	Additional items to be updated:		   1  Component 
+						   0  Symbols
+
+Errors getting items from the library:		   1  Component 
+	  (Not found or read error)			   0  Symbols
+
+End Of Report.
