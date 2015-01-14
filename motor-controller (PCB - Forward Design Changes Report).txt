@@ -2,13 +2,13 @@ Forward Design Changes Report
 -----------------------------
 
 Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Forward Design Changes Report).txt
-Report Written : Monday, January 12, 2015
+Report Written : Wednesday, January 14, 2015
 Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
 Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
 Design Title   : 
 Created        : 13.10.2014 16:37:54
-Last Saved     : 12.01.2015 15:08:28
-Editing Time   : 6376 min
+Last Saved     : 14.01.2015 16:16:25
+Editing Time   : 6528 min
 Units          : mm (precision 3)
 
 The designs are the same, so no design changes to forward.
