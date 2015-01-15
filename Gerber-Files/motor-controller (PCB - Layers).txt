@@ -1,0 +1,62 @@
+Layers
+------
+
+Report File    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller (PCB - Layers).txt
+Report Written : Wednesday, January 14, 2015
+Project Path   : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.prj
+Design Path    : C:\Users\dutsch\Documents\GitHub\motor-controller-pcb\motor-controller.pcb
+Design Title   : 
+Created        : 13.10.2014 16:37:54
+Last Saved     : 14.01.2015 16:43:34
+Editing Time   : 6544 min
+Units          : mm (precision 3)
+
+
+Layers
+======
+
+Name                Type            Side    Usage           Bias         Net
+------------------------------------------------------------------------------
+Top Placement       PlacementGuide  Top     Non-Electrical  None
+Top Silkscreen      Silk Screen     Top     Non-Electrical  None
+Top Solder-Mask     Solder Mask     Top     Non-Electrical  None
+Top Copper          Electrical      Top     Electrical      X
+Documentation       Documentation   Top     Non-Electrical  None
+GND Plane           Electrical      Inner   Electrical      Power Plane  GND
+3.3V Plane          Electrical      Inner   Electrical      Power Plane  +3.3V
+Bottom Placement    PlacementGuide  Bottom  Non-Electrical  None
+Bottom Copper       Electrical      Bottom  Electrical      Y
+Bottom Solder-Mask  Solder Mask     Bottom  Non-Electrical  None
+Bottom Silkscreen   Silk Screen     Bottom  Non-Electrical  None
+
+Layer Types
+===========
+
+Name            Usage           SMD Pads  Free Pads  SMD Sym Pads                              All Layer Pads                            Vias                                      Oversize
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Silk Screen     Non-Electrical  No        No         Der Vorgang wurde erfolgreich beendet.
+  Der Vorgang wurde erfolgreich beendet.
+  Der Vorgang wurde erfolgreich beendet.
+  None
+Electrical      Electrical      Yes       Yes        Unzulässige Funktion.
+                   Unzulässige Funktion.
+                   Unzulässige Funktion.
+                   None
+Documentation   Non-Electrical  No        No         Der Vorgang wurde erfolgreich beendet.
+  Der Vorgang wurde erfolgreich beendet.
+  Der Vorgang wurde erfolgreich beendet.
+  None
+Paste Mask      Non-Electrical  Yes       No         Unzulässige Funktion.
+                   Der Vorgang wurde erfolgreich beendet.
+  Der Vorgang wurde erfolgreich beendet.
+  Absolute -0.100
+Solder Mask     Non-Electrical  Yes       Yes        Unzulässige Funktion.
+                   Unzulässige Funktion.
+                   Unzulässige Funktion.
+                   Absolute 0.100
+PlacementGuide  Non-Electrical  No        No         Der Vorgang wurde erfolgreich beendet.
+  Der Vorgang wurde erfolgreich beendet.
+  Der Vorgang wurde erfolgreich beendet.
+  None
+
+End Of Report.
